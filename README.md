@@ -25,4 +25,7 @@ Preview:
 <p><img src="http://i.imgur.com/pLHQSof.png"></p>
 
 <p><strong>3rd step:</strong></p>
-<p>Paste the code and save</p>
+<p>Paste the code of styles.css and save</p>
+
+
+DISCLAIMER: I'm new to this world, and this is my 1st github post :)
