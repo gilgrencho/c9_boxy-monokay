@@ -1,21 +1,22 @@
-/*cor da palavra function*/
+/*Color of functions*/
 .ace-monokai .ace_storage.ace_type, .ace-monokai .ace_support.ace_class, .ace-monokai .ace_support.ace_type {
     color: #AE81FF;
 }
-/*cor dos strings, wanna be cor of type on objects*/
+/*Color of type words on objects and etc..*/
 .ace-monokai .ace_string {
     color: #A6E22E ;
 }
-/*cor dos if statments, etc..*/
+/*Color if statments, etc..*/
 .ace-monokai .ace_keyword {
     /*color: #A1EFE4;*/
     color: #AE81FF;
 }
-/*cor parenteses*/
+/*Color parenteses*/
 .ace-monokai .ace_paren {
     color:#A1EFE4;
 }
 
+/*Color of type words on objects and etc..*/
 .ace-monokai .ace_entity.ace_other.ace_attribute-name {
     color: #AE81FF;
 }
@@ -25,28 +26,28 @@
     color: #E6DB74;
 }
 
-/*cor numeros*/
+/*Color of numbers*/
 .ace-monokai .ace_constant.ace_numeric{
     color: #FD971F;
 }
-/*funções nome quando criadas*/
+/*Color of function names*/
 .ace-monokai .ace_entity.ace_name.ace_function {
     color: #66D9EF;
 }
-/*cor operadores = + - */
+/*Color of operators = + - */
 .ace-monokai .ace_keyword.ace_operator{
     color: #66D9EF;
 }
 
-/*ejs, html tag color*/
+/*ejs, html tag colors*/
 .ace-monokai .ace_meta.ace_tag {
     color: #F94989;
 }
 
 /*boxy monokay colors */
-/*roxo - #AE81FF */
-/*laranja - #FD971F */
-/*verde - #A6E22E */
-/*azul - #66D9EF */
-/*azulbébé - #A1EFE4 */
-/*amarelo - #E6DB74 */
+/*purple - #AE81FF */
+/*orange - #FD971F */
+/*green - #A6E22E */
+/*blue - #66D9EF */
+/*babyblue - #A1EFE4 */
+/*yellow - #E6DB74 */
