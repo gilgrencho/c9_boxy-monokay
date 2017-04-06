@@ -26,30 +26,3 @@ Preview:
 
 <p><strong>3rd step:</strong></p>
 <p>Paste the code and save</p>
-
-    color: #FD971F;
-}
-/*funções nome quando criadas*/
-.ace-monokai .ace_entity.ace_name.ace_function {
-    color: #66D9EF;
-}
-/*cor operadores = + - */
-.ace-monokai .ace_keyword.ace_operator{
-    color: #66D9EF;
-}
-
-/*ejs, html tag color*/
-.ace-monokai .ace_meta.ace_tag {
-    color: #F94989;
-}
-
-/*boxy monokay colors */
-/*roxo - #AE81FF */
-/*laranja - #FD971F */
-/*verde - #A6E22E */
-/*azul - #66D9EF */
-/*azulbébé - #A1EFE4 */
-/*amarelo - #E6DB74 */
-
-/*---------------------------------------------------------------------*/
-</style>
