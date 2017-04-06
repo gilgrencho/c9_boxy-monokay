@@ -1,5 +1,5 @@
 # c9_boxy-monokay
-Stylesheet approach for the syntax theme of Boxy monokay.
+Stylesheet approach for the syntax theme of Boxy monokay on cloud9 IDE.
 
 <p>What is boxy monokay theme? It's a theme of sublime text that i really enjoy</p> 
 <p> source:  https://packagecontrol.io/packages/Boxy%20Theme </p>
