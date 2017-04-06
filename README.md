@@ -27,38 +27,6 @@ Preview:
 <p><strong>3rd step:</strong></p>
 <p>Paste the code and save</p>
 
-<style type="text/css">
-
-/*---------------------------------------------------------------------*/
-/*cor da palavra function*/
-.ace-monokai .ace_storage.ace_type, .ace-monokai .ace_support.ace_class, .ace-monokai .ace_support.ace_type {
-    color: #AE81FF;
-}
-/*cor dos strings, wanna be cor of type on objects*/
-.ace-monokai .ace_string {
-    color: #A6E22E ;
-}
-/*cor dos if statments, etc..*/
-.ace-monokai .ace_keyword {
-    /*color: #A1EFE4;*/
-    color: #AE81FF;
-}
-/*cor parenteses*/
-.ace-monokai .ace_paren {
-    color:#A1EFE4;
-}
-
-.ace-monokai .ace_entity.ace_other.ace_attribute-name {
-    color: #AE81FF;
-}
-
-/*word String nos objectos, wanna be cor of type on objects*/
-.ace-monokai .ace_variable {
-    color: #E6DB74;
-}
-
-/*cor numeros*/
-.ace-monokai .ace_constant.ace_numeric{
     color: #FD971F;
 }
 /*funções nome quando criadas*/
